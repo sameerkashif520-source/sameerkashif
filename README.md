@@ -1,6 +1,6 @@
 ### Hi, I'm Sameer Kashif 👋
 
-Laravel & Frontend Dev | Custom authentication, AJAX, modern UIs | Rawalpindi, Pakistan | Open to junior roles
+Laravel & Frontend Dev | Custom authentication, modern UIs | Rawalpindi, Pakistan | Open to junior roles
 
 ## What I'm Building
 
