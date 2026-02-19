@@ -6,16 +6,16 @@ Laravel & Frontend Dev | Custom authentication, AJAX, modern UIs | Rawalpindi, P
 
 | Project | Type | Stack | Highlight |
 |---------|------|-------|-----------|
-| [Laravel Admin CMS](link) | Full-stack | Laravel, PHP, MySQL | Custom auth from scratch |
-| [Laravel CRUD System](link) | Full-stack | Laravel, AJAX, MySQL | Real-time relational dropdowns |
-| [Shuttle Match](link) | Frontend | HTML, CSS, JS | Responsive landing page |
-| [Hideva Group](link) | Frontend | HTML, CSS, JS | Responsive corporate site |
+| [Laravel Admin CMS](https://github.com/sameerkashif520-source/laravel-admin-cms) | Full-stack | Laravel, PHP, MySQL | Custom auth from scratch |
+| [Laravel CRUD System](https://github.com/sameerkashif520-source/laravel-crud-system) | Full-stack | Laravel, AJAX, MySQL | Real-time relational dropdowns |
+| [Shuttle Match](https://github.com/sameerkashif520-source/shuttle-match) | Frontend | HTML, CSS, Bootstrap, JS | Responsive landing page |
+| [Hideva Group](https://github.com/sameerkashif520-source/hideva-group) | Frontend | HTML, CSS, Bootstrap, JS | Responsive corporate site |
 
 ## Skills
 
 **Backend:** Laravel, PHP, MySQL, migrations, middleware, Eloquent, server-side validation
 
-**Frontend:** HTML5, CSS3, JavaScript, responsive design, AJAX
+**Frontend:** HTML5, CSS3, Bootstrap, JavaScript, responsive design, AJAX
 
 **Mindset:** Fast learner, clean code, documentation-focused, eager for mentorship
 
